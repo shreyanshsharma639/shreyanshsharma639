@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @shreyanshsharma639
-- 👀 I’m interested in VLSI 
-- 🌱 I’m currently learning SYSTEM VERILOG
-- 💞️ I’m looking to collaborate on RTL Design.Verification
-- 📫  reach me at shreyanshsharma639@gmail.com
+Shreyansh Sharma
 
-<!---
-shreyanshsharma639/shreyanshsharma639 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Email: [shreyanshsharma639@gmail.com](mailto:shreyanshsharma639@gmail.com)
+
+Aspiring VLSI engineer with a strong focus on RTL design and verification. Currently advancing skills in SystemVerilog, with hands-on experience in developing and verifying digital circuits. Open to collaborative projects and knowledge-sharing opportunities in the field of semiconductor design and verification.
+
+Areas of Interest:
+
+* VLSI Design and Verification
+* RTL Design
+* Verilog 
+
+Collaboration:
+Open to collaborative projects in RTL design and verification. Actively seeking opportunities to contribute to professional development in VLSI engineering.
+
+
