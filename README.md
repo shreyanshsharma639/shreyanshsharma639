@@ -1,10 +1,10 @@
 # 💫 About Me:
-## About Me<br>I’m currently working on **Design-for-Test (DFT) insertion**, with a strong focus on scan-based test methodologies and test-aware RTL design. I’m interested in understanding how test logic integrates with functional design to make silicon reliable, testable, and manufacturable at scale.<br><br>
-## Current Work<br>- DFT insertion at RTL and gate level <br>- Scan chain architecture, DFT constraints, and ATPG readiness <br>- Verilog/SystemVerilog RTL with emphasis on clean, synthesizable, and test-friendly design <br><br>
-## Looking to Collaborate On<br>- Verilog RTL design and micro-architecture development <br>- RTL and gate-level verification (testbenches, assertions, functional coverage) <br>- DFT-focused projects involving scan, JTAG, boundary scan, and BIST <br><br>
-## Looking for Help With<br>- Full-time opportunities in VLSI / DFT engineering roles <br>- Industry-oriented guidance on interviews, resume reviews, and hiring expectations in core hardware teams <br><br>
-## Ask Me About<br>- DFT fundamentals and scan-based testing concepts <br>- RTL design trade-offs across area, power, performance, and testability <br>- Real-world verification and test challenges seen in silicon projects <br><br>
-## Fun Fact<br>I work on making sure chips can prove they work before they ever get powered on.<br>
+- Working on DFT insertion with a focus on scan-based test methodologies and test-aware RTL design.
+- Involved in DFT insertion at RTL and gate level, scan chain architecture, DFT constraints, and ATPG readiness.
+- Developing Verilog/SystemVerilog RTL with emphasis on clean, synthesizable, and test-friendly design.
+- Open to collaborating on Verilog RTL design, micro-architecture development, RTL and gate-level verification, and DFT projects.
+- Focused on ensuring chips can be tested and trusted before they reach silicon.
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_shreyansh0210)
